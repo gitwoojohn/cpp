@@ -17,6 +17,12 @@ int _tmain(int argc, _TCHAR* argv[])
 
    cout << y - x << endl;
 
+   int z;
+
+   z = x + y;
+   
+   cout << z << endl;
+
    return 0;
 }
 
